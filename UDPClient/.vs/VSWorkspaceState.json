@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TCPCient",
+    "\\TCPFileServer",
+    "\\UDPClient",
+    "\\UDPServer"
+  ],
+  "SelectedNode": "\\TCPCient\\MainWindow.xaml.cs",
+  "PreviewInSolutionExplorer": false
+}
